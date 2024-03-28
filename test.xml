@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="projectfiles.signin"/>
+      <class name="projectfiles.Searchproduct"/>
+      <class name="projectfiles.Addtocart"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
